@@ -3,7 +3,7 @@
 host=$1
 port=3306
 user="sysbench"
-password="MysqP@55w0rd"
+password="Gsd3#sdfGSd3o"
 table_size=100000
 tables=10
 rate=20
